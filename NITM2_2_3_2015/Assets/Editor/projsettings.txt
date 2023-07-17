@@ -1,0 +1,6 @@
+lastUpgrade=00910
+proj.AppId=831151887385
+android.SetupDone=true
+ios.ClientId=831151887385-2a6dtepd29456l9h206ar9ip6q78j7lt.apps.googleusercontent.com
+ios.BundleId=com.MatthewBurton.NITM2
+ios.SetupDone=true
